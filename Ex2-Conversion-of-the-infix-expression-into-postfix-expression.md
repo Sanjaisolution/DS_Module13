@@ -19,9 +19,6 @@ RegisterNumber:  212223040180
 */
 ```
 ```
-Program to convert the infix expression into postfix expression
-Developed by: SHAHIN J
-RegisterNumber:  212223040190
 
 #include<stdio.h>
 #include<ctype.h>

@@ -20,9 +20,7 @@ RegisterNumber:  212223040180
 */
 ```
 ```
-Program to find and display the priority of the operator in the given Postfix expression
-Developed by: SHAHIN J
-RegisterNumber:  212223040190
+
 
 #include <stdio.h>
 #include<string.h>

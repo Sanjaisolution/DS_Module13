@@ -20,9 +20,7 @@ RegisterNumber:  212223040180
 */
 ```
 ```
-Program to implement Tower of Hanoi
-Developed by: SHAHIN J
-RegisterNumber: 212223040190
+
 
 #include<stdio.h>
 void TOH(int n,char x,char y,char z)
